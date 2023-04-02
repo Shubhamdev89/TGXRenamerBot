@@ -1,13 +1,13 @@
 class Translation(object):
-    START_TEXT = """Hai,
+    START_TEXT = """Hi,
 
-<code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Shubham_Developer'>Chris Carlo 👨‍🎤</a>
 
 Press help button which is available at the bottom to know how to use me."""
 
     START_TEXT_1 = """Hai,
 
-<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Darklester'>Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Shubham_Developer'>Chris_Carlo'>Chris Carlo 👨‍🎤</a>
 
 Press help button which is available at the bottom to know how to use me."""
 
@@ -44,11 +44,11 @@ Press help button which is available at the bottom to know how to use me."""
  
 <b>❤️ Made With Love:======= </b> @Chris_Carlo & @Darklester.
 
-<b>Thanks to My Boss :</b><a href="https://t.me/Darklester">Owner 👨‍🏫</a> and <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<b>Thanks to My Boss :</b><a href="https://t.me/Shubham_Developer">Owner 👨‍🏫</a> and <a href='https://t.me/Shubham_developer'>Chris Carlo 👨‍🎤</a>
 
 
-🗣𝐃𝐢𝐬𝐜𝐮𝐬𝐬 𝐆𝐫𝐨𝐮𝐩: @TGXTECHGroup
-📢𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @TGXTECH"""
+🗣Contact Me: @Shubhamdev64
+📢𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @Shubham_Developer"""
 
   
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for more information. "
@@ -61,47 +61,47 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Short your file name please.</b>
-©️ <code>@TGXTECH</code>
+©️ <code>@TGXRENEMER</code>
 Please short your file name and try again!"""
     ABOUT = """Hi {},
 
-🤖 My Name: [TGX Renamer Bot](t.me/RenamerTGXBOT)
+🤖 My Name: [File Renamer Bot](t.me/File_Renemer64_bot)
     
 📝 Language: [Python 3](https://www.python.org/)
 
 📫 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 Developer: [Chris Carlo](https://t.me/Chris_Carlo)
+👨‍💻 Developer: [Shubham Dev](https://t.me/Shubhamdev64)
 
-📢 Channel: [TECHNOGRAM X](https://t.me/TGXTECH)
+📢 Channel: [Shubham Developer](https://t.me/Shubham_Developer)
 
-👥 Group: [TGX SUPPORT GROUP](https://t.me/TGXTECHGroup)
+👥 Group: [Shubham Developer](https://t.me/Shubham_Developer)
 
-⚖️ Credit: `Everyone in this journey`
+⚖️ Credit: `Shubham Dev`
 
 🌎 Server: [HEROKU](https://heroku.com)
 
 
-🛡️ Powered By: [DARKLESTER](https://t.me/Darklester)"""
+🛡️ Powered By: [Shubham Developer](https://t.me/Shubham_Developer)"""
 
 
 
     ABOUT_1 = """**MY DETAILS :**
-🤖 My Name: [TGX Renamer Bot](t.me/RenamerTGXBOT)
+🤖 My Name: [File Renamer Bot](t.me/File_Renemer64_bot)
     
 📝 Language: [Python 3](https://www.python.org/)
 
 📫 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 Developer: [Chris Carlo](https://t.me/Chris_Carlo)
+👨‍💻 Developer: [Chris Carlo](https://t.me/Shubhamdev64)
 
-📢 Channel: [TECHNOGRAM X](https://t.me/TGXTECH)
+📢 Channel: [Shubham Developer](https://t.me/Shubham_Developer)
 
-👥 Group: [TGX SUPPORT GROUP](https://t.me/TGXTECHGroup)
+👥 Group: [Shubham Developer](https://t.me/Shubham_Developer)
 
 ⚖️ Credit: `Everyone in this journey`
 
 🌎 Server: [HEROKU](https://heroku.com)
 
 
-🛡️ Powered By: [DARKLESTER](https://t.me/Darklester)"""
+🛡️ Powered By: [DARKLESTER](t.me/File_Renemer64_bot)"""
