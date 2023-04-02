@@ -19,7 +19,7 @@ Press help button which is available at the bottom to know how to use me."""
     UPLOAD_START_VIDEO = "<tt>Uploading as video...⬆️</tt>"
     UPLOAD_START = "<tt>Uploading as File...⬆️</tt>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 😢."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [TECHNOGRAM X](https://t.me/TGXTECH)'s bot.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Shubham Developer(https://t.me/Shubham_Developer)'s bot.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
@@ -27,7 +27,7 @@ Press help button which is available at the bottom to know how to use me."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "<b>{}</b> \n\n@TGXTECH"
+    CUSTOM_CAPTION_UL_FILE = "<b>{}</b> \n\n@Shubham_Developer"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """<b>Hey! Here you can know how to use me</b>, 
@@ -42,7 +42,7 @@ Press help button which is available at the bottom to know how to use me."""
 
 4.◽<b>Send A Photo to make it as permanent Thumbnail</b>   
  
-<b>❤️ Made With Love:======= </b> @Chris_Carlo & @Darklester.
+<b>❤️ Made With Love:======= </b> @Shubham_Developer.
 
 <b>Thanks to My Boss :</b><a href="https://t.me/Shubham_Developer">Owner 👨‍🏫</a> and <a href='https://t.me/Shubham_developer'>Chris Carlo 👨‍🎤</a>
 
@@ -61,7 +61,7 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Short your file name please.</b>
-©️ <code>@TGXRENEMER</code>
+©️ <code>@Shubham_Developer</code>
 Please short your file name and try again!"""
     ABOUT = """Hi {},
 
@@ -93,7 +93,7 @@ Please short your file name and try again!"""
 
 📫 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 Developer: [Chris Carlo](https://t.me/Shubhamdev64)
+👨‍💻 Developer: [Shubham Dev](https://t.me/Shubhamdev64)
 
 📢 Channel: [Shubham Developer](https://t.me/Shubham_Developer)
 
@@ -104,4 +104,4 @@ Please short your file name and try again!"""
 🌎 Server: [HEROKU](https://heroku.com)
 
 
-🛡️ Powered By: [DARKLESTER](t.me/File_Renemer64_bot)"""
+🛡️ Powered By: [Shubham Developer](t.me/Shubham_Developer)"""
